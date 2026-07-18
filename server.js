@@ -67,7 +67,7 @@ app.get('/', (req, res) => {
 // 2. Giới Thiệu
 app.get('/gioi-thieu', (req, res) => {
   res.render('about', {
-    title: 'Giới Thiệu Phòng Văn hóa Xã hội Xã Tân Tân Khánh Trung'
+    title: 'Giới Thiệu Phòng Văn hóa Xã hội Xã Tân Khánh Trung'
   });
 });
 
@@ -154,7 +154,7 @@ app.get('/dich-vu-cong/tra-cuu', (req, res) => {
       submitted_date: '2026-07-10',
       expected_date: '2026-07-25',
       status: code.endsWith('9') ? 'Đã duyệt kết quả - Sẵn sàng trả kết quả' : 'Đang xử lý - Đang thẩm định hồ sơ',
-      department: 'Văn phòng Xã hội Xã Tân Tân Khánh Trung'
+      department: 'Văn phòng Xã hội Xã Tân Khánh Trung'
     };
   }
 
@@ -380,7 +380,7 @@ app.use((req, res) => {
 // Start server
 app.listen(PORT, () => {
   console.log(`=======================================================`);
-  console.log(` CỔNG THÔNG TIN ĐIỆN TỬ PHÒNG VĂN HOÁ XÃ HỘI XÃ TÂN TÂN KHÁNH TRUNG`);
+  console.log(` CỔNG THÔNG TIN ĐIỆN TỬ PHÒNG VĂN HOÁ XÃ HỘI XÃ TÂN KHÁNH TRUNG`);
   console.log(` Server running on http://localhost:${PORT}`);
   console.log(` Admin Portal: http://localhost:${PORT}/admin/login`);
   console.log(` Admin Credentials: admin / admin123`);
