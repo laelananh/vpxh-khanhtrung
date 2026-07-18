@@ -30,14 +30,14 @@ const sampleCategories = [
 const samplePosts = [
   {
     id: 1,
-    title: 'Xã Khánh Trung tổ chức thăm và trao quà cho các gia đình chính sách nhân ngày Thương binh - Liệt sĩ 27/7',
+    title: 'Xã Tân Tân Khánh Trung tổ chức thăm và trao quà cho các gia đình chính sách nhân ngày Thương binh - Liệt sĩ 27/7',
     slug: 'xa-my-thien-to-chuc-tham-va-trao-qua-cho-cac-gia-dinh-chinh-sach-27-7',
     category_id: 'nguoi-co-cong',
     type: 'news',
-    summary: 'Sáng nay, đại diện UBND Xã Khánh Trung và Văn phòng Xã hội đã đến thăm hỏi, trao 45 phần quà ý nghĩa cho Thương bệnh binh, Thân nhân liệt sĩ và Mẹ Việt Nam Anh hùng trên địa bàn xã.',
-    content: `<p>Hướng tới kỷ niệm Ngày Thương binh - Liệt sĩ 27/7, Đảng ủy, Hội đồng nhân dân, Ủy ban nhân dân và Mặt trận Tổ quốc xã Khánh Trung đã thành lập các đoàn đến thăm hỏi, động viên và trao tặng các phần quà cho các gia đình chính sách, người có công với cách mạng.</p>
-    <p>Tại các nơi đến thăm, đại diện lãnh đạo xã Khánh Trung đã ân cần hỏi thăm sức khỏe, đời sống của các thương bệnh binh, gia đình liệt sĩ; đồng thời bày tỏ lòng biết ơn sâu sắc trước những cống hiến, sinh của các thế hệ cha anh đi trước vì sự nghiệp giải phóng dân tộc, thống nhất đất nước.</p>
-    <p>Mỗi phần quà trị giá 1.000.000 đồng cùng các nhu yếu phẩm đã được trao tận tay các hộ gia đình. Đại diện các gia đình chính sách cũng bày tỏ niềm xúc động và cảm ơn sự quan tâm chu đáo của chính quyền xã Khánh Trung.</p>`,
+    summary: 'Sáng nay, đại diện UBND Xã Tân Tân Khánh Trung và Văn phòng Xã hội đã đến thăm hỏi, trao 45 phần quà ý nghĩa cho Thương bệnh binh, Thân nhân liệt sĩ và Mẹ Việt Nam Anh hùng trên địa bàn xã.',
+    content: `<p>Hướng tới kỷ niệm Ngày Thương binh - Liệt sĩ 27/7, Đảng ủy, Hội đồng nhân dân, Ủy ban nhân dân và Mặt trận Tổ quốc xã Tân Khánh Trung đã thành lập các đoàn đến thăm hỏi, động viên và trao tặng các phần quà cho các gia đình chính sách, người có công với cách mạng.</p>
+    <p>Tại các nơi đến thăm, đại diện lãnh đạo xã Tân Khánh Trung đã ân cần hỏi thăm sức khỏe, đời sống của các thương bệnh binh, gia đình liệt sĩ; đồng thời bày tỏ lòng biết ơn sâu sắc trước những cống hiến, sinh của các thế hệ cha anh đi trước vì sự nghiệp giải phóng dân tộc, thống nhất đất nước.</p>
+    <p>Mỗi phần quà trị giá 1.000.000 đồng cùng các nhu yếu phẩm đã được trao tận tay các hộ gia đình. Đại diện các gia đình chính sách cũng bày tỏ niềm xúc động và cảm ơn sự quan tâm chu đáo của chính quyền xã Tân Khánh Trung.</p>`,
     image_url: 'https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?auto=format&fit=crop&w=800&q=80',
     is_featured: true,
     views: 342,
@@ -46,15 +46,15 @@ const samplePosts = [
   },
   {
     id: 2,
-    title: 'THÔNG BÁO: Lịch chi trả trợ cấp xã hội tháng 07/2026 tại Trụ sở UBND Xã Khánh Trung',
+    title: 'THÔNG BÁO: Lịch chi trả trợ cấp xã hội tháng 07/2026 tại Trụ sở UBND Xã Tân Tân Khánh Trung',
     slug: 'thong-bao-lich-chi-tra-tro-cap-xa-hoi-thang-07-2026',
     category_id: 'an-sinh',
     type: 'announcement',
-    summary: 'Văn phòng Xã hội Xã Khánh Trung trân trọng thông báo lịch chi trả tiền trợ cấp bảo trợ xã hội và hỗ trợ người khuyết tật, người cao tuổi tháng 07/2026.',
-    content: `<p><strong>Văn phòng Xã hội Xã Khánh Trung xin thông báo đến toàn thể nhân dân và các đối tượng thụ hưởng chính sách bảo trợ xã hội về lịch chi trả như sau:</strong></p>
+    summary: 'Văn phòng Xã hội Xã Tân Tân Khánh Trung trân trọng thông báo lịch chi trả tiền trợ cấp bảo trợ xã hội và hỗ trợ người khuyết tật, người cao tuổi tháng 07/2026.',
+    content: `<p><strong>Văn phòng Xã hội Xã Tân Tân Khánh Trung xin thông báo đến toàn thể nhân dân và các đối tượng thụ hưởng chính sách bảo trợ xã hội về lịch chi trả như sau:</strong></p>
     <ul>
       <li><strong>Thời gian chi trả:</strong> Ngày 20/07/2026 và 21/07/2026 (Buổi sáng: 08h00 - 11h00 | Buổi chiều: 14h00 - 16h30).</li>
-      <li><strong>Địa điểm:</strong> Hội trường Bộ phận Một cửa - UBND Xã Khánh Trung.</li>
+      <li><strong>Địa điểm:</strong> Hội trường Bộ phận Một cửa - UBND Xã Tân Tân Khánh Trung.</li>
       <li><strong>Giấy tờ mang theo:</strong> Căn cước công dân (CCCD) gắn chip bản gốc, Sổ nhận trợ cấp hoặc giấy ủy quyền hợp lệ.</li>
     </ul>`,
     image_url: 'https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=800&q=80',
@@ -69,8 +69,8 @@ const samplePosts = [
     slug: 'huong-dan-lam-thu-tuc-cap-the-bhyt-mien-phi-cho-nguoi-cao-tuoi',
     category_id: 'bao-hiem-y-te',
     type: 'news',
-    summary: 'Theo quy định mới về chính sách bảo vệ sức khỏe người cao tuổi, tất cả công dân từ 75 tuổi trở lên thường trú tại xã Khánh Trung được ngân sách hỗ trợ 100% tiền đóng BHYT.',
-    content: `<p>Thực hiện chính sách an sinh xã hội nâng cao chăm sóc sức khỏe người cao tuổi, UBND Xã Khánh Trung phối hợp với Bảo hiểm Xã hội triển khai cấp thẻ BHYT miễn phí cho công dân từ 75 tuổi trở lên.</p>
+    summary: 'Theo quy định mới về chính sách bảo vệ sức khỏe người cao tuổi, tất cả công dân từ 75 tuổi trở lên thường trú tại xã Tân Khánh Trung được ngân sách hỗ trợ 100% tiền đóng BHYT.',
+    content: `<p>Thực hiện chính sách an sinh xã hội nâng cao chăm sóc sức khỏe người cao tuổi, UBND Xã Tân Tân Khánh Trung phối hợp với Bảo hiểm Xã hội triển khai cấp thẻ BHYT miễn phí cho công dân từ 75 tuổi trở lên.</p>
     <h3>Hồ sơ chuẩn bị:</h3>
     <ol>
       <li>Tờ khai tham gia BHYT (Mẫu TK1-TS) - Cung cấp miễn phí tại bộ phận Một cửa.</li>
@@ -88,7 +88,7 @@ const samplePosts = [
     slug: 'tuyen-truyen-ky-nang-phong-chong-duoi-nuoc-tre-em-he-2026',
     category_id: 'tre-em-binh-dang',
     type: 'news',
-    summary: 'Nhằm đảm bảo an toàn tuyệt đối cho trẻ em trong dịp nghỉ hè, Văn phòng Xã hội phối hợp với Đoàn Thanh niên xã Khánh Trung tổ chức chuỗi hoạt động trang bị kỹ năng sống.',
+    summary: 'Nhằm đảm bảo an toàn tuyệt đối cho trẻ em trong dịp nghỉ hè, Văn phòng Xã hội phối hợp với Đoàn Thanh niên xã Tân Khánh Trung tổ chức chuỗi hoạt động trang bị kỹ năng sống.',
     content: `<p>Dịp hè là thời gian học sinh nghỉ học, nguy cơ xảy ra tai nạn thương tích, đặc biệt là tai nạn đuối nước tại các vùng sông nước sông rạch gia tăng.</p>`,
     image_url: 'https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=800&q=80',
     is_featured: false,
@@ -103,7 +103,7 @@ const samplePosts = [
     category_id: 'lao-dong',
     type: 'announcement',
     summary: 'Chương trình hỗ trợ đào tạo nghề ngắn hạn cho lao động nông thôn (May công nghiệp, Kỹ thuật điện dân dụng, Trồng cây ăn trái chất lượng cao) hoàn toàn miễn học phí.',
-    content: `<p>Văn phòng Xã hội Xã Khánh Trung thông báo tuyển sinh các lớp học nghề ngắn hạn dành cho người lao động có hộ khẩu thường trú tại địa phương.</p>`,
+    content: `<p>Văn phòng Xã hội Xã Tân Tân Khánh Trung thông báo tuyển sinh các lớp học nghề ngắn hạn dành cho người lao động có hộ khẩu thường trú tại địa phương.</p>`,
     image_url: 'https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=800&q=80',
     is_featured: false,
     views: 310,
@@ -116,21 +116,21 @@ const sampleTenders = [
   {
     id: 1,
     code: 'GT-MT-2026-01',
-    title: 'Gói thầu số 01: Mua sắm trang thiết bị âm thanh, ánh sáng và bàn ghế phục vụ Nhà văn hóa cộng đồng xã Khánh Trung',
+    title: 'Gói thầu số 01: Mua sắm trang thiết bị âm thanh, ánh sáng và bàn ghế phục vụ Nhà văn hóa cộng đồng xã Tân Khánh Trung',
     budget: '350.000.000 VNĐ',
-    investor: 'Ủy ban nhân dân Xã Khánh Trung',
+    investor: 'Ủy ban nhân dân Xã Tân Tân Khánh Trung',
     status: 'Đang mời thầu',
     field: 'Mua sắm hàng hóa',
     deadline: '2026-08-25 17:00:00',
     published_at: '2026-07-12 09:00:00',
-    content: `Dự án trang bị cơ sở vật chất cho Nhà văn hóa cộng đồng Xã Khánh Trung.`
+    content: `Dự án trang bị cơ sở vật chất cho Nhà văn hóa cộng đồng Xã Tân Tân Khánh Trung.`
   },
   {
     id: 2,
     code: 'GT-MT-2026-02',
-    title: 'Gói thầu số 02: Nâng cấp, sửa chữa Hạng mục Sân chơi vận động và Dụng cụ thể thao ngoài trời cho trẻ em xã Khánh Trung',
+    title: 'Gói thầu số 02: Nâng cấp, sửa chữa Hạng mục Sân chơi vận động và Dụng cụ thể thao ngoài trời cho trẻ em xã Tân Khánh Trung',
     budget: '480.000.000 VNĐ',
-    investor: 'Ủy ban nhân dân Xã Khánh Trung',
+    investor: 'Ủy ban nhân dân Xã Tân Tân Khánh Trung',
     status: 'Đang mời thầu',
     field: 'Xây lắp & Thiết bị',
     deadline: '2026-08-10 16:30:00',
@@ -148,7 +148,7 @@ const sampleServices = [
     level: 'Dịch vụ công Trực tuyến Toàn trình',
     time_limit: '15 ngày làm việc',
     fee: 'Miễn phí',
-    authority: 'Ủy ban nhân dân Xã Khánh Trung',
+    authority: 'Ủy ban nhân dân Xã Tân Tân Khánh Trung',
     steps: ['Bước 1: Nộp hồ sơ', 'Bước 2: Thẩm định', 'Bước 3: Trả kết quả'],
     dossier: ['Tờ khai Mẫu 01', 'Bản sao CCCD']
   },
@@ -160,7 +160,7 @@ const sampleServices = [
     level: 'Dịch vụ công Trực tuyến Một phần',
     time_limit: '05 ngày làm việc',
     fee: 'Miễn phí',
-    authority: 'UBND Xã Khánh Trung phối hợp BHXH Huyện',
+    authority: 'UBND Xã Tân Tân Khánh Trung phối hợp BHXH Huyện',
     steps: ['Bước 1: Nộp tờ khai TK1-TS', 'Bước 2: Cấp thẻ'],
     dossier: ['Tờ khai TK1-TS', 'Giấy tờ chứng minh']
   }
@@ -172,11 +172,11 @@ const sampleContacts = [
     fullname: 'Nguyễn Văn An',
     phone: '0912345678',
     email: 'nguyenvanan@gmail.com',
-    address: 'Ấp Mỹ Phú, Xã Khánh Trung',
+    address: 'Ấp Mỹ Phú, Xã Tân Tân Khánh Trung',
     title: 'Hỏi về thời gian làm lại thẻ BHYT bị mất cho người cao tuổi',
     content: 'Cho tôi hỏi cha tôi 80 tuổi bị mất thẻ BHYT, làm lại cấp lại mất bao lâu?',
     status: 'Đã trả lời',
-    reply: 'Chào ông An, ông vui lòng mang CCCD của cụ đến Bộ phận Một cửa xã Khánh Trung.',
+    reply: 'Chào ông An, ông vui lòng mang CCCD của cụ đến Bộ phận Một cửa xã Tân Khánh Trung.',
     created_at: '2026-07-14 10:20:00'
   }
 ];
@@ -189,7 +189,7 @@ let dbData = {
       username: 'admin',
       password: bcrypt.hashSync('admin123', 10),
       fullname: 'Quản trị viên Phòng Văn hóa Xã hội',
-      email: 'admin@khanhtrung.gov.vn',
+      email: 'admin@tankhanhtrung.gov.vn',
       role: 'admin',
       created_at: '2026-07-01 08:00:00'
     }
@@ -200,13 +200,13 @@ let dbData = {
   services: sampleServices,
   contacts: sampleContacts,
   settings: {
-    site_title: 'CỔNG THÔNG TIN ĐIỆN TỬ PHÒNG VĂN HOÁ XÃ HỘI XÃ KHÁNH TRUNG',
-    sub_title: 'ỦY BAN NHÂN DÂN XÃ KHÁNH TRUNG - BỘ PHẬN MỘT CỬA & PHÒNG VĂN HOÁ XÃ HỘI',
-    address: 'Trụ sở UBND Xã Khánh Trung, Ấp Mỹ Phú, Xã Khánh Trung, Huyện Cái Bè, Tỉnh Tiền Giang',
+    site_title: 'CỔNG THÔNG TIN ĐIỆN TỬ PHÒNG VĂN HOÁ XÃ HỘI XÃ TÂN TÂN KHÁNH TRUNG',
+    sub_title: 'ỦY BAN NHÂN DÂN XÃ TÂN TÂN KHÁNH TRUNG - BỘ PHẬN MỘT CỬA & PHÒNG VĂN HOÁ XÃ HỘI',
+    address: 'Trụ sở UBND Xã Tân Tân Khánh Trung, Ấp Mỹ Phú, Xã Tân Tân Khánh Trung, Tỉnh Đồng Tháp',
     phone: '0273 3855 123 - Hotline: 0918 456 789',
-    email: 'phongvanhoaxahoi@khanhtrung.tiengiang.gov.vn',
+    email: 'phongvanhoaxahoi@tankhanhtrung.tiengiang.gov.vn',
     working_hours: 'Thứ 2 - Thứ 6: Sáng 07h30 - 11h30 | Chiều 13h30 - 17h00',
-    banner_announcement: 'Chào mừng Quý công dân đến với Cổng Dịch vụ công & Thông tin Phòng Văn hóa Xã hội Xã Khánh Trung.'
+    banner_announcement: 'Chào mừng Quý công dân đến với Cổng Dịch vụ công & Thông tin Phòng Văn hóa Xã hội Xã Tân Tân Khánh Trung.'
   }
 };
 
@@ -376,7 +376,7 @@ module.exports = {
       code: data.code || `GT-MT-2026-0${newId}`,
       title: data.title,
       budget: data.budget || 'Thỏa thuận',
-      investor: data.investor || 'UBND Xã Khánh Trung',
+      investor: data.investor || 'UBND Xã Tân Tân Khánh Trung',
       status: data.status || 'Đang mời thầu',
       field: data.field || 'Mua sắm công',
       deadline: data.deadline || now,
@@ -428,7 +428,7 @@ module.exports = {
       level: data.level || 'Dịch vụ công Trực tuyến Toàn trình',
       time_limit: data.time_limit || '05 ngày làm việc',
       fee: data.fee || 'Miễn phí',
-      authority: data.authority || 'Ủy ban nhân dân Xã Khánh Trung',
+      authority: data.authority || 'Ủy ban nhân dân Xã Tân Tân Khánh Trung',
       steps: Array.isArray(data.steps) ? data.steps : (data.steps ? data.steps.split('\n') : []),
       dossier: Array.isArray(data.dossier) ? data.dossier : (data.dossier ? data.dossier.split('\n') : [])
     };

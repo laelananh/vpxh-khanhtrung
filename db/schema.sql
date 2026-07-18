@@ -1,5 +1,5 @@
 -- SQL SCHEMA & SEED DATA FOR SUPABASE (POSTGRESQL)
--- VĂN PHÒNG XÃ HỘI XÃ KHÁNH TRUNG
+-- VĂN PHÒNG XÃ HỘI XÃ TÂN TÂN KHÁNH TRUNG
 
 -- 1. Create Users Table
 CREATE TABLE IF NOT EXISTS users (
@@ -88,5 +88,5 @@ ON CONFLICT (id) DO NOTHING;
 
 -- Default Admin User (username: admin, password: admin123)
 INSERT INTO users (id, username, password, fullname, email, role) VALUES
-(1, 'admin', '$2a$10$wT8KzE0Y8sC.sYvMhO8Q3.H3G5bO0b0Z0J0J0J0J0J0J0J0J0J0J0', 'Quản trị viên Văn phòng Xã hội', 'admin@khanhtrung.gov.vn', 'admin')
+(1, 'admin', '$2a$10$wT8KzE0Y8sC.sYvMhO8Q3.H3G5bO0b0Z0J0J0J0J0J0J0J0J0J0J0', 'Quản trị viên Văn phòng Xã hội', 'admin@tankhanhtrung.gov.vn', 'admin')
 ON CONFLICT (username) DO NOTHING;
