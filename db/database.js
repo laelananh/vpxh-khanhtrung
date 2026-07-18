@@ -35,9 +35,9 @@ const samplePosts = [
     category_id: 'nguoi-co-cong',
     type: 'news',
     summary: 'Sáng nay, đại diện UBND Xã Tân Khánh Trung và Văn phòng Xã hội đã đến thăm hỏi, trao 45 phần quà ý nghĩa cho Thương bệnh binh, Thân nhân liệt sĩ và Mẹ Việt Nam Anh hùng trên địa bàn xã.',
-    content: `<p>Hướng tới kỷ niệm Ngày Thương binh - Liệt sĩ 27/7, Đảng ủy, Hội đồng nhân dân, Ủy ban nhân dân và Mặt trận Tổ quốc xã Tân Khánh Trung đã thành lập các đoàn đến thăm hỏi, động viên và trao tặng các phần quà cho các gia đình chính sách, người có công với cách mạng.</p>
-    <p>Tại các nơi đến thăm, đại diện lãnh đạo xã Tân Khánh Trung đã ân cần hỏi thăm sức khỏe, đời sống của các thương bệnh binh, gia đình liệt sĩ; đồng thời bày tỏ lòng biết ơn sâu sắc trước những cống hiến, sinh của các thế hệ cha anh đi trước vì sự nghiệp giải phóng dân tộc, thống nhất đất nước.</p>
-    <p>Mỗi phần quà trị giá 1.000.000 đồng cùng các nhu yếu phẩm đã được trao tận tay các hộ gia đình. Đại diện các gia đình chính sách cũng bày tỏ niềm xúc động và cảm ơn sự quan tâm chu đáo của chính quyền xã Tân Khánh Trung.</p>`,
+    content: `<p>Hướng tới kỷ niệm Ngày Thương binh - Liệt sĩ 27/7, Đảng ủy, Hội đồng nhân dân, Ủy ban nhân dân và Mặt trận Tổ quốc xã Mỹ Thiện đã thành lập các đoàn đến thăm hỏi, động viên và trao tặng các phần quà cho các gia đình chính sách, người có công với cách mạng.</p>
+    <p>Tại các nơi đến thăm, đại diện lãnh đạo xã Mỹ Thiện đã ân cần hỏi thăm sức khỏe, đời sống của các thương bệnh binh, gia đình liệt sĩ; đồng thời bày tỏ lòng biết ơn sâu sắc trước những cống hiến, sinh của các thế hệ cha anh đi trước vì sự nghiệp giải phóng dân tộc, thống nhất đất nước.</p>
+    <p>Mỗi phần quà trị giá 1.000.000 đồng cùng các nhu yếu phẩm đã được trao tận tay các hộ gia đình. Đại diện các gia đình chính sách cũng bày tỏ niềm xúc động và cảm ơn sự quan tâm chu đáo của chính quyền xã Mỹ Thiện.</p>`,
     image_url: 'https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?auto=format&fit=crop&w=800&q=80',
     is_featured: true,
     views: 342,
@@ -69,7 +69,7 @@ const samplePosts = [
     slug: 'huong-dan-lam-thu-tuc-cap-the-bhyt-mien-phi-cho-nguoi-cao-tuoi',
     category_id: 'bao-hiem-y-te',
     type: 'news',
-    summary: 'Theo quy định mới về chính sách bảo vệ sức khỏe người cao tuổi, tất cả công dân từ 75 tuổi trở lên thường trú tại xã Tân Khánh Trung được ngân sách hỗ trợ 100% tiền đóng BHYT.',
+    summary: 'Theo quy định mới về chính sách bảo vệ sức khỏe người cao tuổi, tất cả công dân từ 75 tuổi trở lên thường trú tại xã Mỹ Thiện được ngân sách hỗ trợ 100% tiền đóng BHYT.',
     content: `<p>Thực hiện chính sách an sinh xã hội nâng cao chăm sóc sức khỏe người cao tuổi, UBND Xã Tân Khánh Trung phối hợp với Bảo hiểm Xã hội triển khai cấp thẻ BHYT miễn phí cho công dân từ 75 tuổi trở lên.</p>
     <h3>Hồ sơ chuẩn bị:</h3>
     <ol>
@@ -88,7 +88,7 @@ const samplePosts = [
     slug: 'tuyen-truyen-ky-nang-phong-chong-duoi-nuoc-tre-em-he-2026',
     category_id: 'tre-em-binh-dang',
     type: 'news',
-    summary: 'Nhằm đảm bảo an toàn tuyệt đối cho trẻ em trong dịp nghỉ hè, Văn phòng Xã hội phối hợp với Đoàn Thanh niên xã Tân Khánh Trung tổ chức chuỗi hoạt động trang bị kỹ năng sống.',
+    summary: 'Nhằm đảm bảo an toàn tuyệt đối cho trẻ em trong dịp nghỉ hè, Văn phòng Xã hội phối hợp với Đoàn Thanh niên xã Mỹ Thiện tổ chức chuỗi hoạt động trang bị kỹ năng sống.',
     content: `<p>Dịp hè là thời gian học sinh nghỉ học, nguy cơ xảy ra tai nạn thương tích, đặc biệt là tai nạn đuối nước tại các vùng sông nước sông rạch gia tăng.</p>`,
     image_url: 'https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=800&q=80',
     is_featured: false,
@@ -116,7 +116,7 @@ const sampleTenders = [
   {
     id: 1,
     code: 'GT-MT-2026-01',
-    title: 'Gói thầu số 01: Mua sắm trang thiết bị âm thanh, ánh sáng và bàn ghế phục vụ Nhà văn hóa cộng đồng xã Tân Khánh Trung',
+    title: 'Gói thầu số 01: Mua sắm trang thiết bị âm thanh, ánh sáng và bàn ghế phục vụ Nhà văn hóa cộng đồng xã Mỹ Thiện',
     budget: '350.000.000 VNĐ',
     investor: 'Ủy ban nhân dân Xã Tân Khánh Trung',
     status: 'Đang mời thầu',
@@ -128,7 +128,7 @@ const sampleTenders = [
   {
     id: 2,
     code: 'GT-MT-2026-02',
-    title: 'Gói thầu số 02: Nâng cấp, sửa chữa Hạng mục Sân chơi vận động và Dụng cụ thể thao ngoài trời cho trẻ em xã Tân Khánh Trung',
+    title: 'Gói thầu số 02: Nâng cấp, sửa chữa Hạng mục Sân chơi vận động và Dụng cụ thể thao ngoài trời cho trẻ em xã Mỹ Thiện',
     budget: '480.000.000 VNĐ',
     investor: 'Ủy ban nhân dân Xã Tân Khánh Trung',
     status: 'Đang mời thầu',
@@ -176,7 +176,7 @@ const sampleContacts = [
     title: 'Hỏi về thời gian làm lại thẻ BHYT bị mất cho người cao tuổi',
     content: 'Cho tôi hỏi cha tôi 80 tuổi bị mất thẻ BHYT, làm lại cấp lại mất bao lâu?',
     status: 'Đã trả lời',
-    reply: 'Chào ông An, ông vui lòng mang CCCD của cụ đến Bộ phận Một cửa xã Tân Khánh Trung.',
+    reply: 'Chào ông An, ông vui lòng mang CCCD của cụ đến Bộ phận Một cửa xã Mỹ Thiện.',
     created_at: '2026-07-14 10:20:00'
   }
 ];
@@ -188,8 +188,8 @@ let dbData = {
       id: 1,
       username: 'admin',
       password: bcrypt.hashSync('admin123', 10),
-      fullname: 'Quản trị viên Phòng Văn hóa Xã hội',
-      email: 'admin@tankhanhtrung.gov.vn',
+      fullname: 'Quản trị viên Phòng Văn hóa Xã hội Xã Tân Khánh Trung',
+      email: 'admin@khanhtrung.gov.vn',
       role: 'admin',
       created_at: '2026-07-01 08:00:00'
     }
@@ -202,9 +202,9 @@ let dbData = {
   settings: {
     site_title: 'CỔNG THÔNG TIN ĐIỆN TỬ PHÒNG VĂN HOÁ XÃ HỘI XÃ TÂN KHÁNH TRUNG',
     sub_title: 'ỦY BAN NHÂN DÂN XÃ TÂN KHÁNH TRUNG - BỘ PHẬN MỘT CỬA & PHÒNG VĂN HOÁ XÃ HỘI',
-    address: 'Trụ sở UBND Xã Tân Khánh Trung, Ấp Mỹ Phú, Xã Tân Khánh Trung, Tỉnh Đồng Tháp',
+    address: 'Trụ sở UBND Xã Tân Khánh Trung, Ấp Mỹ Phú, Xã Tân Khánh Trung, Huyện Cái Bè, Tỉnh Tiền Giang',
     phone: '0273 3855 123 - Hotline: 0918 456 789',
-    email: 'phongvanhoaxahoi@tankhanhtrung.tiengiang.gov.vn',
+    email: 'phongvanhoaxahoi@khanhtrung.tiengiang.gov.vn',
     working_hours: 'Thứ 2 - Thứ 6: Sáng 07h30 - 11h30 | Chiều 13h30 - 17h00',
     banner_announcement: 'Chào mừng Quý công dân đến với Cổng Dịch vụ công & Thông tin Phòng Văn hóa Xã hội Xã Tân Khánh Trung.'
   }
@@ -294,6 +294,8 @@ module.exports = {
       summary: postData.summary || '',
       content: postData.content || '',
       image_url: postData.image_url || 'https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?auto=format&fit=crop&w=800&q=80',
+      pdf_url: postData.pdf_url || '',
+      pdf_name: postData.pdf_name || '',
       is_featured: postData.is_featured === true || postData.is_featured === 'true' || postData.is_featured === 'on',
       views: 0,
       created_at: now,
