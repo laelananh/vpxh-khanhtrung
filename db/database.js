@@ -202,7 +202,7 @@ let dbData = {
   settings: {
     site_title: 'CỔNG THÔNG TIN ĐIỆN TỬ PHÒNG VĂN HOÁ XÃ HỘI XÃ TÂN KHÁNH TRUNG',
     sub_title: 'ỦY BAN NHÂN DÂN XÃ TÂN KHÁNH TRUNG - BỘ PHẬN MỘT CỬA & PHÒNG VĂN HOÁ XÃ HỘI',
-    address: 'Trụ sở UBND Xã Tân Khánh Trung, Ấp Mỹ Phú, Xã Tân Khánh Trung, Huyện Cái Bè, Tỉnh Tiền Giang',
+    address: 'Trụ sở UBND Xã Tân Khánh Trung, Ấp Hưng Mỹ Tây, Xã Tân Khánh Trung, Tỉnh Đồng Tháp',
     phone: '0273 3855 123 - Hotline: 0918 456 789',
     email: 'phongvanhoaxahoi@khanhtrung.tiengiang.gov.vn',
     working_hours: 'Thứ 2 - Thứ 6: Sáng 07h30 - 11h30 | Chiều 13h30 - 17h00',
